@@ -1,1 +1,1 @@
-# verificador_imagens
+
